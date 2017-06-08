@@ -6,3 +6,19 @@
 body {
   font-family: 'Khula', sans-serif;
 }
+/*Utilities*/
+.gray-dark {
+  background-color: #3B444B;
+}
+.gray-medium {
+  background-color: #62676B;
+}
+.gray-green {
+  background-color: darkslategray;
+}
+.gray-soft {
+  background-color: #BAC7B6;
+}
+.gold {
+  background-color: #F0C50F;
+}
