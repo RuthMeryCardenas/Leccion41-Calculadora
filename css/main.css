@@ -47,8 +47,13 @@ body {
   margin-bottom: 5%;
   padding: 3%;
 }
-.screen {
+.screen,
+hr,
+input[type="button"],
+button {
   border-style: none;
+}
+.screen {
   color: #FFFFFF;
   font-size: 30px;
   font-weight: 800;
@@ -57,14 +62,12 @@ body {
   width: 100%;
 }
 hr {
-  background-color: white;
-  border-style: none;
+  background-color: #FFFFFF;
   height: 2px;
 }
 input[type="button"],
 button {
   border-radius: 50%;
-  border-style: none;
   color: #FFFFFF;
   font-size: 15px;
   font-weight: 800;
